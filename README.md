@@ -1,4 +1,13 @@
+I created a luggage shipping website, which can ship the luggage to travelers’ hotel to make good use of the time. User can pay for the shipping fee and track their luggage on the website. If the luggage is lost or delayed, airline will use blockchain to keep updated. Therefore, that updated information can be a proven document to make an insurance claim. User no longer needs to wait for luggage and request a document issued by airline at the airport.
+
+Tech stack:
+- HTML
+- CSS
+- Javascript
+
+
 Executive Summary
+
 With matured and continued development of tourism and business exchange, the global market requires intensive luggage shipping services and travel insurance to tackle with a large amounts of incidents per day. By using blockchain technology for data management, we can provide one-stop services to increase the efficiency of transportation and shorten the complicated insurance procedure.
 
 Background
